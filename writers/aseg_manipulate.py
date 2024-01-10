@@ -7,7 +7,6 @@ Created on Thu Aug 17 13:47:49 2023
 
 import os
 import nibabel as nb
-import numpy as np
 
 def create_aseg(fileInPath, filename, fileOutPath, data_new):
           
